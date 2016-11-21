@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "NHFNSString"
-  s.version          = “1.0.1”
+  s.version          = "1.0.1"
   s.summary          = "对NSString进行行的一个扩展"
   s.homepage         = "https://github.com/nhfc99/NHFNSString"
   s.license          = 'MIT'
